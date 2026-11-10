@@ -4,7 +4,6 @@ A cinematic, streaming-inspired portfolio for **Palak Singh**, B.Tech CSE studen
 Every section is an episode and every project is an Original.
 
 > A personal portfolio with a fictional streaming-platform look. It is not affiliated with Netflix or any other streaming service and uses none of their logos.
-> The layout and animation system are based on the "Portfolio_series" project by Sushmita Dasari (github.com/Sushmitadasari/Portfolio_series). All content, images and branding here are Palak's own.
 
 ## Run it locally
 
